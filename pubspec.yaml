@@ -12,10 +12,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.1
+  cupertino_icons: ^1.0.0
   mobx: ^1.2.1+2
   flutter_mobx: ^1.1.0+2
-  http: ^0.12.2  
+  http: ^0.12.2
   mobx_codegen: ^1.1.0+1
   flutter_staggered_grid_view: ^0.3.2
   url_launcher: ^5.7.10

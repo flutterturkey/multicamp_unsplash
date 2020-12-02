@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.multicamp_unsplash">
    <application
-        android:label="multicamp_unsplash"
+        android:label="Multicamp Unsplash"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
